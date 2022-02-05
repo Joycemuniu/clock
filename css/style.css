@@ -6,8 +6,8 @@
  #clockDisplay{
 	margin:0px auto;
 	width: 400px;
-	background-color: #eb8383;
-	border: 5px solid #ededee;
+	background-color:black;
+	border: 5px blanchedalmond;
     box-shadow: 0 20px 30px rgba(0,0,0,0.2);
     height: 100px;
 	color: #2ed9f7;
