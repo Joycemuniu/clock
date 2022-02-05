@@ -1,12 +1,12 @@
-/* body{
+ body{
     margin-top: 200px;
     height: 100vh;
-    background: #2477b7;
-} */
-/* #clockDisplay{
+    background:lightskyblue;
+} 
+ #clockDisplay{gi
 	margin:0px auto;
 	width: 400px;
-	background-color: #1E1E1E;
+	background-color: #eb8383;
 	border: 5px solid #ededee;
     box-shadow: 0 20px 30px rgba(0,0,0,0.2);
     height: 100px;
@@ -19,4 +19,4 @@
 	
 }
 
-   */
+   
